@@ -22,7 +22,6 @@ dependencies {
     implementation 'com.github.jdsdhp:preferenza:$version'
 }
 ```
-<br>
 
 ## Usage
 
