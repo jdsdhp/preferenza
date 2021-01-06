@@ -5,7 +5,7 @@ Utility to store and consult preferences on Android. It allows to use several XM
 
 [![JitPack](https://jitpack.io/v/jdsdhp/preferenza.svg)](https://jitpack.io/#jdsdhp/preferenza) 
 [![API](https://img.shields.io/badge/API-17%2B-red.svg?style=flat)](https://android-arsenal.com/api?level=17) 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/jdsdhp/preferenza/blob/master/LICENSE) 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Twitter](https://img.shields.io/badge/Twitter-@jdsdhp-9C27B0.svg)](https://twitter.com/jdsdhp)
 
 ## Including in your project
